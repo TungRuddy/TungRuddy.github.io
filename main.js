@@ -4623,7 +4623,7 @@ var StoreComponent = /** @class */ (function () {
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "environment", function() { return environment; });
 var environment = {
-    api_url: 'http://192.168.1.3',
+    api_url: 'http://178.128.92.249:5000',
     production: false
 };
 
