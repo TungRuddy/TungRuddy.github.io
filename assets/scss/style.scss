@@ -1,0 +1,18 @@
+
+@import 'src/assets/scss/variable';  
+
+
+@import 'src/assets/scss/colors/default-dark'; 
+
+
+// Import Bootstrap source files
+@import "node_modules/bootstrap/scss/bootstrap";
+
+
+@import 'src/assets/scss/core/core';
+@import 'src/assets/scss/widgets/widgets';
+@import 'src/assets/scss/responsive';
+
+
+@import 'src/assets/scss/custom'; 
+
