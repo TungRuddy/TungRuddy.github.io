@@ -2560,7 +2560,7 @@ var __decorate = (undefined && undefined.__decorate) || function (decorators, ta
 
 var ChatService = /** @class */ (function () {
     function ChatService() {
-        this.url = 'http://localhost:5000';
+        this.url = 'http://178.128.92.249:5000';
         this.socket = socket_io_client__WEBPACK_IMPORTED_MODULE_2__(this.url);
     }
     ChatService.prototype.sendMessage = function (obj) {
