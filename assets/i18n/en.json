@@ -1,0 +1,79 @@
+{
+  "enterEmail": "Please enter a valid email address",
+  "emailNull": "Email is ",
+  "passwordNull": "Password is ",
+  "null": "required",
+  "password": "Password",
+  "login": "Login",
+  "facebook": "Login with Facebook",
+  "google": "Login with Google",
+  "registration": "New Registration",
+  "forgotPassword": "Forgot password",
+
+  "name": "Name",
+  "phone": "Phone",
+  "languages": "Languages",
+  "vn": "Vietnamese",
+  "eng": "English",
+  "position": "Select your true localtion",
+  "address": "Your address",
+  "male": "Male",
+  "female": "Female",
+  "birdthday": "Birdthday",
+  "area": "Area",
+  "HCM" : "Ho Chi Minh City",
+  "VT": "Vung Tau City",
+  "signUp": "Sign Up",
+
+  "reapetPassword": "Reapet password",
+  "confirm": "Confirm",
+
+  "homePage": "Home page",
+  "order": "My order",
+  "information": "Account information",
+  "setting": "Settings",
+  "logOut": "Log Out",
+
+  "receivehome": "Receive At Home",
+  "receiveApoint": "Receive At Apoint",
+
+  "receiver": "Receiver",
+  "createDate" : "Create date",
+  "totalPrice": "Total price",
+  "purchaseMethod": "Purchase method",
+  "direct": "Direct",
+
+  "orderDetail": "Order Detail",
+  "product": "Product",
+  "quantity": "Quantity",
+  "discount": "Discount",
+  "orderSent": "The order has been sent",
+  "receive": "Receive",
+
+  "detail": "Detail",
+  "addToCard": "Add to cart",
+
+  "price": "Price",
+  "select": "Select",
+  "expire" : "Expire",
+  "point": "Point",
+
+  "Lịch sử giao dịch": "History Transaction",
+  "Danh sách đơn hàng": "Orders list",
+  "Chờ xác nhận": "Wait for Confirmation",
+  "Đã xác nhận": "Confirmed",
+  "Đang vận chuyển": "Shipping",
+  "Đã giao hàng": "Delivery Successfully",
+
+  "Tổng cộng": "Total Payment",
+  "Thành tiền":"Total",
+  "Đơn giá": "Unit price",
+  "Phương thức mua hàng": "Method of purchase",
+  "Thanh toán":"Payment",
+
+  "Nam":"Male",
+  "Nữ":"Female",
+
+  "Find stores":"Find Stores",
+  "Thứ 2 đến Chủ Nhật":"All days for week"
+}
